@@ -1,7 +1,7 @@
 # dawn
 A startpage called "dawn". Pretty buggy and hacky.
 
-[**Live Preview**](https://blankaex.github.io/dawn/)
+[**Live Preview**](https://blankaex.github.io/startpage-v3/)
 
 ### Keybindings
 - `s` open search dialog
